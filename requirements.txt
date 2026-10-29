@@ -8,3 +8,8 @@ numpy
 plotly
 pandas  
 scipy
+
+flopy
+
+jupyterlab
+ipykernel
